@@ -1,0 +1,19 @@
+.todo{
+ 
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  
+
+
+}
+.Add{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  
+}
+
+.todo2 button{
+  margin: 12px;
+}
