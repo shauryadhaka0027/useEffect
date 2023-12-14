@@ -19,6 +19,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 ## Features
 
+
 1. **User Authentication:**
    - Sign up for a new account.
    - Log in with existing credentials.
@@ -52,14 +53,14 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 4. Start the application: `npm start dev`
 
 ## Usage
-
+![Homepage product](https://github.com/shauryadhaka0027/useEffect/assets/138813918/f776a3e4-5894-47cb-8bdf-bc88d7bc07f2)
 ### User Authentication
 
 - Sign up for a new account using the provided form.
 - Log in with your credentials to access personalized features.
 
 ### Product Listing
-
+![Products](https://github.com/shauryadhaka0027/useEffect/assets/138813918/40c1f545-7ac3-4042-8652-12c59a216156)
 - Browse the list of available products on the main page.
 
 ### Sorting
@@ -70,6 +71,8 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 - Click on a product to view detailed information.
 
+![Card](https://github.com/shauryadhaka0027/useEffect/assets/138813918/07f1160a-ab89-431c-a90a-ed01c951f049)
+
 ### Shopping Cart
 
 - Add products to the shopping cart using the "Add to Cart" button.
@@ -77,6 +80,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 - Remove items from the shopping cart.
 
 ### Checkout
+![payments](https://github.com/shauryadhaka0027/useEffect/assets/138813918/908af5fd-93f8-416a-85bf-f04727fb03aa)
 
 - Proceed to checkout from the shopping cart page.
 - Enter shipping and payment information.
@@ -85,5 +89,9 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 ## Contributing
 
 We welcome contributions! Feel free to submit issues and pull requests.
+
+
+
+![login](https://github.com/shauryadhaka0027/useEffect/assets/138813918/186ce3f1-4669-4c0a-930e-6c7850054d0d)
 
 
