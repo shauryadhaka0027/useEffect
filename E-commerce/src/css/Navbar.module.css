@@ -1,0 +1,15 @@
+.container{
+    height: 4rem;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-around;
+      align-items: center; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}

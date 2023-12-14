@@ -1,0 +1,41 @@
+/* Home.module.css */
+
+.gridContainer {
+    display: flex;
+   justify-content: space-between;
+    flex-wrap: wrap;
+    
+  }
+  
+  .card {
+   
+    text-align: center;
+    padding: 20px;
+    margin: 2rem;
+    
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  
+  .card img {
+   height: 8rem;
+    width: 100%;
+    object-fit: cover; /* Ensures the image maintains its aspect ratio */
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .gridContainer {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  
+    .card {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .gridContainer {
+      grid-template-columns: 1fr;
+    }
+  }
+  

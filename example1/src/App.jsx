@@ -14,7 +14,7 @@ const[totalPage,setTotalPage]=useState(1)
  async function fetchApi(){
   setLoading(true)
   try {
-    let res = await axios.get(`http://localhost:3000/task?_limit=3&_page=${page}`);
+    let res = await axios.get(`http://localhost:5000/task?_limit=3&_page=${page}`);
     let total=Number(res.headers['x-total-count'])
     let calculate=Math.ceil(total/3)
     setTotalPage(calculate)

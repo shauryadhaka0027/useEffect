@@ -19,7 +19,7 @@ export default function TodoList({ tasks, fetchApi }) {
 }
 const deleteTask = async (id) => {
   try {
-    await axios.delete(`http://localhost:3000/task/${id}`);
+    await axios.delete(`http://localhost:5000/task/${id}`);
     fetchApi();
   } catch (err) {
     console.error("Error deleting task", err);

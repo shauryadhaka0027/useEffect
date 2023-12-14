@@ -2,11 +2,11 @@ import axios from 'axios'
 import { useState } from 'react'
 
 export default function AddTask({ fetchApi }) {
-  const [task, setTask] = useState('')
+  const [task, setTask] = useState("  ")
 
   async function addTodo() {
     try {
-      await axios.post('http://localhost:3000/task', {
+      await axios.post('http://localhost:5000/task', {
         title: task,
         completed: false
       })
