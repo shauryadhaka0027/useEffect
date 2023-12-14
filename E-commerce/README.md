@@ -15,7 +15,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
   - [Shopping Cart](#shopping-cart)
   - [Checkout](#checkout)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -86,6 +86,4 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 We welcome contributions! Feel free to submit issues and pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
