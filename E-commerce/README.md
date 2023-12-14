@@ -47,9 +47,9 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 ### Installation
 1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd e-commerce-website`
+2. Navigate to the project directory: `http://shaurya-e-commerce-website.netlify.app/`
 3. Install dependencies: `npm install`
-4. Start the application: `npm start`
+4. Start the application: `npm start dev`
 
 ## Usage
 
