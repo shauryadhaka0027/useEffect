@@ -47,7 +47,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 - Node.js and npm installed on your machine.
 
 ### Installation
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `https://github.com/shauryadhaka0027/useEffect.git`
 2. Navigate to the project directory: `http://shaurya-e-commerce-website.netlify.app/`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start dev`
